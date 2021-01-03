@@ -8,4 +8,4 @@ This repository contains neural network concepts and deep learning projects comp
 ## **Neural Networks - Basic Concepts**
 
 
-    - [Activation Functions](https://github.com/pb111/Neural-Networks-and-Deep-Learning/blob/main/Activation_Functions.ipynb)
+   -[Activation Functions](https://github.com/pb111/Neural-Networks-and-Deep-Learning/blob/main/Activation_Functions.ipynb)
